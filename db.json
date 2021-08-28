@@ -1,0 +1,41 @@
+{
+  "EmployeePayrollDB": [
+    {
+      "_name": "Raju",
+      "_gender": "female",
+      "_department": [
+        "Sales"
+      ],
+      "_salary": "400000",
+      "_startDate": "29 Oct 2019",
+      "_note": "",
+      "_profilePic": "../assets/profile-images/Ellipse -8.png",
+      "id": 6
+    },
+    {
+      "_name": "RajKumar",
+      "_gender": "female",
+      "_department": [
+        "Sales"
+      ],
+      "_salary": "400000",
+      "_startDate": "29 Oct 2019",
+      "_note": "",
+      "_profilePic": "../assets/profile-images/Ellipse -3.png",
+      "id": 9
+    },
+    {
+      "_name": "HarryPotter",
+      "_profilePic": "../assets/profile-images/Ellipse -3.png",
+      "_gender": "male",
+      "_department": [
+        "HR",
+        "Engineer"
+      ],
+      "_salary": "430600",
+      "_note": "demo",
+      "_startDate": "1 Jan 2020",
+      "id": 12
+    }
+  ]
+}
